@@ -1,4 +1,4 @@
-Reusable Scripts & Assets 🎮
+Reusable Scripts & Assets 🎮 
 
 ### 🚀 Game Development Resources
 - **Unity Asset Store**  
