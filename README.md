@@ -1,5 +1,6 @@
-Reusable Scripts & Assets 🎮 
-/scripts from platformer
+Reusable Scripts & Assets 🎮
+</br>
+scripts from platformer
   
 ### 🚀 Game Development Resources
 - **Unity Asset Store**  
