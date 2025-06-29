@@ -18,7 +18,7 @@ scripts from platformer
 - **Sonniss GameAudio**    
 
 ### 🎨 Pixel Art Resources
-- **Lospec**  
+- **Lospec**    
 - **Piskel**  
 - **Aseprite**  
 - **Pixel Art Scaler**  
