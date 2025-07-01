@@ -13,12 +13,12 @@ scripts from platformer
 ### 🎵 Game Music Resources
 - **Freesound.org**  
 - **Incompetech**  
-- **Soundimage.org**  
+- **Soundimage.org**       
 - **Bfxr**  
 - **Sonniss GameAudio**    
 
 ### 🎨 Pixel Art Resources
-- **Lospec**  
+- **Lospec**    
 - **Piskel**  
 - **Aseprite**  
 - **Pixel Art Scaler**  
